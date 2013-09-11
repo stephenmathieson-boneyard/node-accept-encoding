@@ -1,6 +1,6 @@
 {
   "name": "accept-encoding",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Simple plugin for checking a request's Accept-Encoding",
   "keywords": [
     "accepts",
