@@ -9,7 +9,7 @@
   "author": "Stephen Mathieson <me@stephenmathieson.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/stephenmathieson/accept-encoding.git"
+    "url": "git://github.com/stephenmathieson/node-accept-encoding.git"
   },
   "dependencies": {},
   "devDependencies": {
@@ -18,7 +18,7 @@
   },
   "main": "index.js",
   "bugs": {
-    "url": "https://github.com/stephenmathieson/accept-encoding/issues"
+    "url": "https://github.com/stephenmathieson/node-accept-encoding/issues"
   },
   "scripts": {
     "test": "make test"
