@@ -3,6 +3,8 @@
 
   Simple plugin for checking a request's Accept-Encoding
 
+[![Build Status](https://travis-ci.org/stephenmathieson/node-accept-encoding.png)](https://travis-ci.org/stephenmathieson/node-accept-encoding)
+
 ## API
 
 ### `accepts(req, encoding)`
